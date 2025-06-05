@@ -21,7 +21,7 @@ Maven 3.9.9 (for building the project)
 1) git clone <repository_url>
 2) cd <repository_name>
 3) mvn clean install
-4) java -jar target/organization-analyzer.jar <path-to-csv-file>
+4) java -jar target/organization-analyzer.jar path-to-csv-file
 
 #### Sample Program Output
 
