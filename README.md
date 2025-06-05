@@ -24,7 +24,7 @@ Maven 3.9.9 (for building the project)
 4) java -jar target/organization-analyzer.jar path-to-csv-file
 
 #### Sample Program Output
-
+![OrganizationAnalyzer/organization-analysis-output.jpg](OrganizationAnalyzer/organization-analysis-output.jpg)
 --- Manager Salary Analysis ---<br/>
 Manager:: Martin Chekov (ID: 124) earns less than they should. Current: 45000, Expected Min: 60000.00. Needs 15000.00 more.<br/>
 Manager:: Vivek Singh (ID: 405) earns more than they should. Current: 24000, Expected Max: 21000.00. Needs 3000.00 less.<br/>
