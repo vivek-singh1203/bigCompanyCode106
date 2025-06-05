@@ -18,8 +18,8 @@ Maven 3.9.9 (for building the project)
 
 
 ####  Step for execution
-1) git clone <repository_url>
-2) cd <repository_name>
+1) git clone https://github.com/vivek-singh1203/bigCompanyCode106.git
+2) navigate to bigCompanyCode106-main/OrganizationAnalyzer
 3) mvn clean install
 4) java -jar target/organization-analyzer.jar path-to-csv-file
 
